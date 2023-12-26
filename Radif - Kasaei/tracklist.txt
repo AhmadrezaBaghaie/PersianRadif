@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Track 1 - Mahoor",
+    "artist": "Hasan Kasaei",
+    "image": "Radif - Kasaei/radif.jpg",
+    "path": "Radif - Kasaei/Persian Radif/Track 1 - Mahoor.mp3",
+    "folder": "Persian Radif"
+  },
+  {
+    "name": "Track 2 - Mahoor",
+    "artist": "Hasan Kasaei",
+    "image": "Radif - Kasaei/radif.jpg",
+    "path": "Radif - Kasaei/Persian Radif/Track 2 - Mahoor.mp3",
+    "folder": "Persian Radif"
+  },
+  {
+    "name": "Track 3 - Shoor va Bayat-e-Tork",
+    "artist": "Hasan Kasaei",
+    "image": "Radif - Kasaei/radif.jpg",
+    "path": "Radif - Kasaei/Persian Radif/Track 3 - Shoor va Bayat-e-Tork.mp3",
+    "folder": "Persian Radif"
+  },
+  {
+    "name": "Track 4 - Bayat-e-Tork va Abuata",
+    "artist": "Hasan Kasaei",
+    "image": "Radif - Kasaei/radif.jpg",
+    "path": "Radif - Kasaei/Persian Radif/Track 4 - Bayat-e-Tork va Abuata.mp3",
+    "folder": "Persian Radif"
+  },
+  {
+    "name": "Track 5 - Abuata",
+    "artist": "Hasan Kasaei",
+    "image": "Radif - Kasaei/radif.jpg",
+    "path": "Radif - Kasaei/Persian Radif/Track 5 - Abuata.mp3",
+    "folder": "Persian Radif"
+  },
+  {
+    "name": "Track 6 - Abuata va Afshari",
+    "artist": "Hasan Kasaei",
+    "image": "Radif - Kasaei/radif.jpg",
+    "path": "Radif - Kasaei/Persian Radif/Track 6 - Abuata va Afshari.mp3",
+    "folder": "Persian Radif"
+  },
+  {
+    "name": "Track 7 - Bayat-e-Kord va Dashti",
+    "artist": "Hasan Kasaei",
+    "image": "Radif - Kasaei/radif.jpg",
+    "path": "Radif - Kasaei/Persian Radif/Track 7 - Bayat-e-Kord va Dashti.mp3",
+    "folder": "Persian Radif"
+  },
+  {
+    "name": "Track 8 - Dashti va Shoor",
+    "artist": "Hasan Kasaei",
+    "image": "Radif - Kasaei/radif.jpg",
+    "path": "Radif - Kasaei/Persian Radif/Track 8 - Dashti va Shoor.mp3",
+    "folder": "Persian Radif"
+  },
+  {
+    "name": "Track 9 - Bayat-e-Esfahan",
+    "artist": "Hasan Kasaei",
+    "image": "Radif - Kasaei/radif.jpg",
+    "path": "Radif - Kasaei/Persian Radif/Track 9 - Bayat-e-Esfahan.mp3",
+    "folder": "Persian Radif"
+  },
+  {
+    "name": "Track 10 - Bayat-e-Esfahan va Chahargah",
+    "artist": "Hasan Kasaei",
+    "image": "Radif - Kasaei/radif.jpg",
+    "path": "Radif - Kasaei/Persian Radif/Track 10 - Bayat-e-Esfahan va Chahargah.mp3",
+    "folder": "Persian Radif"
+  },
+  {
+    "name": "Track 11 - Chahargah",
+    "artist": "Hasan Kasaei",
+    "image": "Radif - Kasaei/radif.jpg",
+    "path": "Radif - Kasaei/Persian Radif/Track 11 - Chahargah.mp3",
+    "folder": "Persian Radif"
+  },
+  {
+    "name": "Track 12 - Homayoun",
+    "artist": "Hasan Kasaei",
+    "image": "Radif - Kasaei/radif.jpg",
+    "path": "Radif - Kasaei/Persian Radif/Track 12 - Homayoun.mp3",
+    "folder": "Persian Radif"
+  },
+  {
+    "name": "Track 13 - Homayoun va Shooshtari",
+    "artist": "Hasan Kasaei",
+    "image": "Radif - Kasaei/radif.jpg",
+    "path": "Radif - Kasaei/Persian Radif/Track 13 - Homayoun va Shooshtari.mp3",
+    "folder": "Persian Radif"
+  },
+  {
+    "name": "Track 14 - Nava",
+    "artist": "Hasan Kasaei",
+    "image": "Radif - Kasaei/radif.jpg",
+    "path": "Radif - Kasaei/Persian Radif/Track 14 - Nava.mp3",
+    "folder": "Persian Radif"
+  },
+  {
+    "name": "Track 15 - Segah",
+    "artist": "Hasan Kasaei",
+    "image": "Radif - Kasaei/radif.jpg",
+    "path": "Radif - Kasaei/Persian Radif/Track 15 - Segah.mp3",
+    "folder": "Persian Radif"
+  },
+  {
+    "name": "Track 16 - Rast-Panjgah",
+    "artist": "Hasan Kasaei",
+    "image": "Radif - Kasaei/radif.jpg",
+    "path": "Radif - Kasaei/Persian Radif/Track 16 - Rast-Panjgah.mp3",
+    "folder": "Persian Radif"
+  },
+  {
+    "name": "Track 17 - Rast-Panjgah",
+    "artist": "Hasan Kasaei",
+    "image": "Radif - Kasaei/radif.jpg",
+    "path": "Radif - Kasaei/Persian Radif/Track 17 - Rast-Panjgah.mp3",
+    "folder": "Persian Radif"
+  },
+  {
+    "name": "Track 18 - Rast-Panjgah",
+    "artist": "Hasan Kasaei",
+    "image": "Radif - Kasaei/radif.jpg",
+    "path": "Radif - Kasaei/Persian Radif/Track 18 - Rast-Panjgah.mp3",
+    "folder": "Persian Radif"
+  }
+]
