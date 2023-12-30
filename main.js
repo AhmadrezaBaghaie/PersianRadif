@@ -204,7 +204,7 @@ function createScrollableList() {
     }
 
     const trackItem = document.createElement('div');
-    const spaces = '\xa0'.repeat(track.folder.length); // '\xa0' is a non-breaking space
+    const spaces = '\xa0'.repeat(4); // '\xa0' is a non-breaking space
     trackItem.textContent = `${spaces} ${track.name}`;
     trackItem.classList.add('listItem', 'trackItem');
     trackItem.addEventListener('click', function() {
